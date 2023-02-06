@@ -1,0 +1,17 @@
+div{
+    margin:auto;
+    position: absolute;
+    top: 50%;
+    /* left:50%; */
+    right:50%;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+body{
+    background-color: bisque;
+    text-align: center;
+
+}
